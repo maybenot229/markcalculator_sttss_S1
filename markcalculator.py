@@ -18,6 +18,7 @@ subjects = {
     "Biology": 6,
     "PE": 2,
     "ICT": 2,
+    "CCA": 2,
 }
 
 st.divider()
